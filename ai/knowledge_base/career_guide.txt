@@ -1,0 +1,523 @@
+AI STUDENT CAREER & PLACEMENT SYSTEM
+CAREER GUIDE KNOWLEDGE BASE
+
+==================================================
+
+1. PYTHON DEVELOPER
+   ==================================================
+
+Description:
+A Python Developer creates software applications, backend systems,
+automation tools and web applications using Python.
+
+Required Skills:
+
+* Python
+* SQL
+* Git
+* GitHub
+* Django
+* Flask
+* REST APIs
+* Problem Solving
+
+Beginner Learning:
+
+* Python syntax
+* Variables and data types
+* Operators
+* Conditions
+* Loops
+* Functions
+* Lists
+* Tuples
+* Dictionaries
+* Sets
+
+Intermediate Learning:
+
+* Object-oriented programming
+* Exception handling
+* File handling
+* Modules and packages
+* SQL
+* APIs
+* Django
+* Flask
+
+Advanced Learning:
+
+* REST API development
+* Authentication
+* Database optimization
+* Docker
+* Cloud deployment
+* System design
+
+Recommended Projects:
+
+* Student Management System
+* Expense Tracker
+* REST API
+* Online Quiz Application
+* Job Portal
+
+==================================================
+2. DATA SCIENTIST
+=================
+
+Description:
+A Data Scientist analyzes data and uses statistics and machine
+learning to discover patterns and support decision making.
+
+Required Skills:
+
+* Python
+* SQL
+* NumPy
+* Pandas
+* Statistics
+* Data Visualization
+* Machine Learning
+* Matplotlib
+
+Beginner Learning:
+
+* Python
+* NumPy
+* Pandas
+* Basic statistics
+* Data cleaning
+
+Intermediate Learning:
+
+* Exploratory Data Analysis
+* Data visualization
+* SQL
+* Probability
+* Machine learning
+* Feature engineering
+
+Advanced Learning:
+
+* Advanced machine learning
+* Model optimization
+* Deep learning
+* Natural Language Processing
+* MLOps
+
+Recommended Projects:
+
+* Student Performance Prediction
+* Sales Prediction
+* Customer Churn Prediction
+* House Price Prediction
+* Data Analysis Dashboard
+
+==================================================
+3. MACHINE LEARNING ENGINEER
+============================
+
+Description:
+A Machine Learning Engineer develops, trains, evaluates and
+deploys machine learning models.
+
+Required Skills:
+
+* Python
+* NumPy
+* Pandas
+* SQL
+* Machine Learning
+* Scikit-learn
+* TensorFlow
+* PyTorch
+* Git
+
+Beginner Learning:
+
+* Python
+* Mathematics
+* Statistics
+* NumPy
+* Pandas
+
+Intermediate Learning:
+
+* Supervised learning
+* Unsupervised learning
+* Regression
+* Classification
+* Clustering
+* Model evaluation
+* Scikit-learn
+
+Advanced Learning:
+
+* Deep Learning
+* TensorFlow
+* PyTorch
+* Model deployment
+* MLOps
+* Model optimization
+
+Recommended Projects:
+
+* Spam Detection
+* Disease Prediction
+* Recommendation System
+* Image Classification
+* Student Placement Prediction
+
+==================================================
+4. WEB DEVELOPER
+================
+
+Description:
+A Web Developer creates websites and web applications.
+
+Required Skills:
+
+* HTML
+* CSS
+* JavaScript
+* Git
+* GitHub
+* Responsive Design
+
+Beginner Learning:
+
+* HTML
+* CSS
+* Basic JavaScript
+* Forms
+* Tables
+* Page layouts
+
+Intermediate Learning:
+
+* DOM
+* JavaScript ES6
+* Responsive design
+* Git
+* GitHub
+* APIs
+
+Advanced Learning:
+
+* React
+* Backend development
+* REST APIs
+* Authentication
+* Deployment
+
+Recommended Projects:
+
+* Portfolio Website
+* College Website
+* Online Quiz Website
+* E-commerce Website
+* Job Portal
+
+==================================================
+5. FULL STACK DEVELOPER
+=======================
+
+Description:
+A Full Stack Developer works on both frontend and backend
+components of web applications.
+
+Required Skills:
+
+* HTML
+* CSS
+* JavaScript
+* React
+* Python
+* Django
+* SQL
+* Git
+* REST APIs
+
+Beginner Learning:
+
+* HTML
+* CSS
+* JavaScript
+* Git
+
+Intermediate Learning:
+
+* React
+* Python
+* Django or Flask
+* SQL
+* REST APIs
+* Authentication
+
+Advanced Learning:
+
+* Cloud deployment
+* Docker
+* CI/CD
+* System design
+* Database optimization
+
+Recommended Projects:
+
+* Full Stack Student Management System
+* E-commerce Application
+* Job Portal
+* Learning Management System
+* Placement Management System
+
+==================================================
+6. AI ENGINEER
+==============
+
+Description:
+An AI Engineer develops applications using artificial intelligence,
+machine learning and deep learning technologies.
+
+Required Skills:
+
+* Python
+* Artificial Intelligence
+* Machine Learning
+* Deep Learning
+* NumPy
+* Pandas
+* TensorFlow
+* PyTorch
+* NLP
+
+Beginner Learning:
+
+* Python
+* Mathematics
+* NumPy
+* Pandas
+* Statistics
+
+Intermediate Learning:
+
+* Machine Learning
+* Neural Networks
+* Scikit-learn
+* Data preprocessing
+
+Advanced Learning:
+
+* Deep Learning
+* NLP
+* Computer Vision
+* Generative AI
+* Model deployment
+
+Recommended Projects:
+
+* AI Chatbot
+* Resume Analyzer
+* Career Recommendation System
+* Image Recognition System
+* Student AI Assistant
+
+==================================================
+7. CLOUD ENGINEER
+=================
+
+Description:
+A Cloud Engineer designs, deploys and manages applications
+and infrastructure using cloud platforms.
+
+Required Skills:
+
+* AWS
+* Azure
+* Linux
+* Docker
+* Networking
+* Python
+* Git
+
+Beginner Learning:
+
+* Linux
+* Networking basics
+* Cloud fundamentals
+* Git
+
+Intermediate Learning:
+
+* AWS or Azure
+* Virtual Machines
+* Cloud Storage
+* Docker
+* Cloud databases
+
+Advanced Learning:
+
+* Kubernetes
+* Infrastructure as Code
+* CI/CD
+* Cloud security
+* Cloud architecture
+
+Recommended Projects:
+
+* Cloud Hosted Website
+* Cloud Database Application
+* Dockerized Web Application
+* Cloud Monitoring System
+
+==================================================
+8. DEVOPS ENGINEER
+==================
+
+Description:
+A DevOps Engineer automates development, testing and deployment
+of software applications.
+
+Required Skills:
+
+* Linux
+* Git
+* Docker
+* AWS
+* Azure
+* CI/CD
+* Python
+* Kubernetes
+
+Beginner Learning:
+
+* Linux
+* Git
+* Networking
+* Shell scripting
+
+Intermediate Learning:
+
+* Docker
+* CI/CD
+* AWS
+* Azure
+* Automation
+
+Advanced Learning:
+
+* Kubernetes
+* Terraform
+* Cloud architecture
+* Monitoring
+* DevSecOps
+
+Recommended Projects:
+
+* CI/CD Pipeline
+* Docker Deployment
+* Automated Testing Pipeline
+* Kubernetes Application
+
+==================================================
+GENERAL PLACEMENT GUIDE
+=======================
+
+Resume:
+
+* Keep your resume clear and concise.
+* Use a professional email address.
+* Mention relevant technical skills.
+* Add meaningful academic or personal projects.
+* Explain your contribution to each project.
+* Keep education details accurate.
+* Check spelling and grammar.
+* Customize your resume for the target role.
+
+Interview:
+
+* Prepare a short self-introduction.
+* Understand every project on your resume.
+* Practice technical questions.
+* Practice coding problems.
+* Prepare HR questions.
+* Research the company before an interview.
+* Explain your problem-solving approach.
+* Be honest when you do not know an answer.
+
+Technical Preparation:
+
+* Practice programming regularly.
+* Learn data structures and algorithms.
+* Understand databases and SQL.
+* Learn Git and GitHub.
+* Build real projects.
+* Practice debugging.
+* Improve communication skills.
+
+Projects:
+Students should build projects that demonstrate their skills.
+A good project should have:
+
+* Clear problem statement
+* Useful features
+* Database
+* User interface
+* Error handling
+* Documentation
+* GitHub repository
+
+Placement Preparation:
+
+1. Choose a target career.
+2. Identify required skills.
+3. Compare current skills with required skills.
+4. Learn missing skills.
+5. Build projects.
+6. Improve resume.
+7. Practice interviews.
+8. Apply for suitable jobs.
+9. Track applications.
+10. Continue learning.
+
+==================================================
+AI ASSISTANT RESPONSE GUIDELINES
+================================
+
+When a student asks about a career:
+
+* Explain the career.
+* List important skills.
+* Suggest a learning path.
+* Suggest project ideas.
+
+When a student asks what to learn:
+
+* Check their preferred career.
+* Check their existing skills.
+* Identify missing skills.
+* Suggest beginner, intermediate and advanced topics.
+
+When a student asks about placement:
+
+* Give practical preparation steps.
+* Suggest resume improvements.
+* Suggest interview preparation.
+* Suggest relevant projects.
+
+When a student asks about interviews:
+
+* Provide technical preparation.
+* Provide HR preparation.
+* Suggest practice questions.
+* Give communication tips.
+
+When a student asks about their career:
+
+* Use their profile information.
+* Consider skills, interests and preferred career.
+* Provide personalized learning suggestions.
+
+==================================================
+END OF CAREER GUIDE
+===================
